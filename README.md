@@ -3,6 +3,8 @@
 ## Informacje
 Witam, jest to launcher do platformy FiveM napisany w języku C# w formacie WPF by łączyć się z serwerami, (zawarty w nim jest Source Code)
 
+[Screenshot](https://imgur.com/4b48SAC)
+
 # Legal
 ### License
 
