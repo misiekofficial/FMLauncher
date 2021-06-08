@@ -5,6 +5,8 @@ Witam, jest to launcher do platformy FiveM napisany w języku C# w formacie WPF 
 
 [Screenshot](https://imgur.com/4b48SAC)
 
+Discord: ✪ Misiek#7763
+
 # Legal
 ### License
 
